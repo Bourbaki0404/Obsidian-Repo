@@ -1,0 +1,75 @@
+{
+  "id": "465f12b7-25ed-4586-8214-a86da9355e8e",
+  "title": "hound (as verb)    specimen fuss shuttle pail shov",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "hound (as verb)    specimen fuss shuttle pail shove",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nhound (as verb)    specimen fuss shuttle pail shove\n\n"
+        }
+      ],
+      "id": "2c8f4a80-6d28-4344-9e2e-5791c3eec324",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 3.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the updates to your file, adding the new words and their definitions.\n\n<smtcmp_block filename=\"English 3.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n==hound== (as verb) to relentlessly pursue or pester someone\n==specimen== an individual animal, plant, or piece of a substance used as an example of its species or type for scientific study or display\n==fuss== a display of unnecessary or excessive excitement, activity, or concern about something; to show excessive concern or activity about something\n==shuttle== a form of transport that travels regularly between two places; to move or travel frequently between two places\n==pail== a bucket\n==shove== to push (someone or something) roughly\n</smtcmp_block>",
+      "id": "697cfa43-058a-4406-84f5-3d60fcb4fd64",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 10257,
+          "completion_tokens": 163,
+          "total_tokens": 10472
+        }
+      }
+    }
+  ],
+  "createdAt": 1755423676882,
+  "updatedAt": 1755423708310,
+  "schemaVersion": 1
+}

@@ -1,0 +1,2867 @@
+{
+  "id": "286aeceb-68ec-407d-979c-eb9a2f5630ed",
+  "title": "accrue",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "accrue",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\naccrue\n\n"
+        }
+      ],
+      "id": "2e5020ad-4c8e-4bf8-a25c-ca414bd161b0",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe detective carefully observed each suspect in the ==lineup==, searching for any subtle cues or inconsistencies that might link one of them to the intricate details of the crime. [A line of people or things, especially one formed for a particular purpose.]\n\n==Accrue== means to accumulate or increase over time, often used in financial contexts for interest or benefits.\n</smtcmp_block>",
+      "id": "e7155c44-30f0-4dc4-a0b6-0cab227ade48",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 3162,
+          "completion_tokens": 105,
+          "total_tokens": 3304
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "where is sentence??",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nwhere is sentence??\n\n"
+        }
+      ],
+      "id": "b805e8e8-ff32-4c48-84b2-15bc1ba81fc7",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "My apologies. I missed adding an example sentence. Here it is:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe detective carefully observed each suspect in the ==lineup==, searching for any subtle cues or inconsistencies that might link one of them to the intricate details of the crime. [A line of people or things, especially one formed for a particular purpose.]\n\n==Accrue== means to accumulate or increase over time, often used in financial contexts for interest or benefits.\nInterest will ==accrue== on your savings account over time.\n</smtcmp_block>",
+      "id": "268634ec-6fd9-4178-a406-e2b712fdd8ae",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 3275,
+          "completion_tokens": 134,
+          "total_tokens": 3450
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "reread my note to learn how to answer",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nreread my note to learn how to answer\n\n"
+        }
+      ],
+      "id": "ee12e620-3cc8-4718-8aa7-060f97354e67",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "I've reviewed your note's format. For new vocabulary, you typically provide a sentence with the word highlighted, followed by the definition in square brackets `[]` on the same line.\n\nHere's the corrected entry for \"accrue\":\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe detective carefully observed each suspect in the ==lineup==, searching for any subtle cues or inconsistencies that might link one of them to the intricate details of the crime. [A line of people or things, especially one formed for a particular purpose.]\nInterest will ==accrue== on your savings account over time. [to accumulate or increase over time]\n</smtcmp_block>",
+      "id": "ae3dcdbf-197a-495b-9f4b-a5ff1560fff2",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 3423,
+          "completion_tokens": 156,
+          "total_tokens": 4677
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "more complex sentence",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nmore complex sentence\n\n"
+        }
+      ],
+      "id": "f1a45af9-797d-4ac5-81b4-26df6337571a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is a more complex sentence for \"accrue\":\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe detective carefully observed each suspect in the ==lineup==, searching for any subtle cues or inconsistencies that might link one of them to the intricate details of the crime. [A line of people or things, especially one formed for a particular purpose.]\nDespite initial setbacks, the company expects significant benefits to ==accrue== from its long-term investment in renewable energy technologies. [to accumulate or increase over time]\n</smtcmp_block>",
+      "id": "49d07720-a809-428f-a410-ba86a43944c3",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 3586,
+          "completion_tokens": 128,
+          "total_tokens": 3774
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "abtain",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nabtain\n\n"
+        }
+      ],
+      "id": "852dfe8d-c77a-4474-9d61-c91a47f03d0d",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "It seems there might be a typo in \"abtain.\" Did you mean \"obtain\"? If so, here's the entry for \"obtain\":\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nDespite initial setbacks, the company expects significant benefits to ==accrue== from its long-term investment in renewable energy technologies. [to accumulate or increase over time]\nShe worked hard to ==obtain== a scholarship to her dream university. [to get, acquire, or secure something]\n</smtcmp_block>",
+      "id": "dd2a3884-4097-405c-97ba-9afeadc06f08",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 3754,
+          "completion_tokens": 121,
+          "total_tokens": 4227
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "recoup",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nrecoup\n\n"
+        }
+      ],
+      "id": "bce72f64-b07d-499d-85fb-8c4a78180bfc",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nShe worked hard to ==obtain== a scholarship to her dream university. [to get, acquire, or secure something]\nThe company hopes to ==recoup== its losses from the failed investment through a new marketing strategy. [to recover or regain something, especially money or a loss]\n</smtcmp_block>",
+      "id": "05266403-a105-4622-bf31-e4733fa04f6b",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 3881,
+          "completion_tokens": 89,
+          "total_tokens": 4025
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "vex, lingo, nautical, chapel, exodus",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nvex, lingo, nautical, chapel, exodus\n\n"
+        }
+      ],
+      "id": "a6a4ce1d-8e3f-4730-b927-1d441f2cebcd",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe company hopes to ==recoup== its losses from the failed investment through a new marketing strategy. [to recover or regain something, especially money or a loss]\nThe complicated instructions for assembling the furniture began to ==vex== him. [to make someone feel annoyed, frustrated, or worried]\nHe quickly learned the technical ==lingo== used by programmers in the IT department. [a specialized vocabulary or set of terms used by a particular group or profession]\nThe old sailor loved sharing stories about his ==nautical== adventures across the high seas. [relating to ships, sailing, or sailors]\nThe small ==chapel== on the hill was often used for intimate wedding ceremonies. [a small building or room used for Christian worship in a larger building or institution]\nThe mass ==exodus== of refugees from the war-torn region shocked the international community. [a mass departure of people, especially emigrants]\n</smtcmp_block>",
+      "id": "a57cbf4e-1ce9-40a5-99c6-f1a2753e13a9",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4023,
+          "completion_tokens": 221,
+          "total_tokens": 4323
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "add tout with the following sentence: \"For over a decade, students like Manasi Mishra were inspired by industry leaders who touted computer science as the ultimate pathway to success. \"",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nadd tout with the following sentence: \"For over a decade, students like Manasi Mishra were inspired by industry leaders who touted computer science as the ultimate pathway to success. \"\n\n"
+        }
+      ],
+      "id": "ad2098d1-1a57-4393-93eb-fd5345bfdc16",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe small ==chapel== on the hill was often used for intimate wedding ceremonies. [a small building or room used for Christian worship in a larger building or institution]\nThe mass ==exodus== of refugees from the war-torn region shocked the international community. [a mass departure of people, especially emigrants]\nFor over a decade, students like Manasi Mishra were inspired by industry leaders who ==touted== computer science as the ultimate pathway to success. [to publicly praise or promote something or someone enthusiastically]\n</smtcmp_block>",
+      "id": "8caf5899-2e63-4113-ad88-b2b638b6a320",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4464,
+          "completion_tokens": 140,
+          "total_tokens": 4670
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "add pes·ter",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nadd pes·ter\n\n"
+        }
+      ],
+      "id": "19ed2ab2-270d-4b53-bf63-972aeb40164a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nFor over a decade, students like Manasi Mishra were inspired by industry leaders who ==touted== computer science as the ultimate pathway to success. [to publicly praise or promote something or someone enthusiastically]\nMy little brother loves to ==pester== me with endless questions when I'm trying to study. [to annoy or bother someone repeatedly with frequent requests or interruptions]\n</smtcmp_block>",
+      "id": "fea69cfc-76bc-4724-b7de-4077b6655768",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4611,
+          "completion_tokens": 109,
+          "total_tokens": 4817
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "add lenience",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nadd lenience\n\n"
+        }
+      ],
+      "id": "75ca8bf0-c9af-43ff-ac83-80f654f532ec",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nMy little brother loves to ==pester== me with endless questions when I'm trying to study. [to annoy or bother someone repeatedly with frequent requests or interruptions]\nThe judge showed ==lenience== by giving the first-time offender a lighter sentence. [the quality of being more merciful or tolerant than expected; mildness or clemency]\n</smtcmp_block>",
+      "id": "748323e9-411a-480f-9a25-e71fba79149b",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4765,
+          "completion_tokens": 104,
+          "total_tokens": 4951
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "deflect",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ndeflect\n\n"
+        }
+      ],
+      "id": "0dcdc11f-fea0-45fc-b841-fbb757aa8891",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nMy little brother loves to ==pester== me with endless questions when I'm trying to study. [to annoy or bother someone repeatedly with frequent requests or interruptions]\nThe judge showed ==lenience== by giving the first-time offender a lighter sentence. [the quality of being more merciful or tolerant than expected; mildness or clemency]\nHe tried to ==deflect== the blame for the mistake onto his colleague. [to cause (something) to change direction; to turn aside (a question, criticism, etc.)]\n</smtcmp_block>",
+      "id": "2762f622-9084-40dc-a159-a55eb4cc1132",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4914,
+          "completion_tokens": 143,
+          "total_tokens": 5114
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "supersede",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nsupersede\n\n"
+        }
+      ],
+      "id": "6b0bf519-1071-4124-a2f8-f48be31d80e6",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nHe tried to ==deflect== the blame for the mistake onto his colleague. [to cause (something) to change direction; to turn aside (a question, criticism, etc.)]\nNew regulations will ==supersede== the old ones, making the previous rules obsolete. [to take the place of (someone or something previously in authority or use); to replace]\n</smtcmp_block>",
+      "id": "b7bbdb71-7acc-46a4-be0c-7779ebb3bbc1",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4993,
+          "completion_tokens": 107,
+          "total_tokens": 5150
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "enfranchise blockade relapse instalment recollect backload repentence extrude backlog rouse daunt shear retort searing dissipate afloat primacy merger",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nenfranchise blockade relapse instalment recollect backload repentence extrude backlog rouse daunt shear retort searing dissipate afloat primacy merger\n\n"
+        }
+      ],
+      "id": "831e9766-2327-481e-af2e-de1260ead90f",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries added to your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nNew regulations will ==supersede== the old ones, making the previous rules obsolete. [to take the place of (someone or something previously in authority or use); to replace]\nThe new law sought to ==enfranchise== all citizens, granting them the right to vote regardless of their social status. [to give the right to vote; to grant citizenship]\nThe navy imposed a strict ==blockade== on the enemy port, preventing any ships from entering or leaving. [an act or means of sealing off a place to prevent goods or people from entering or leaving]\nAfter several months of sobriety, he unfortunately suffered a ==relapse== and started drinking again. [a deterioration in someone's state of health after a temporary improvement; a return to a bad habit]\nShe paid for the new car in monthly ==instalments==, making it more affordable. [one of several parts of something, such as a payment or a story, that are provided or delivered at different times]\nHe couldn't quite ==recollect== where he had seen that face before. [to remember something; to recall]\nThe team decided to ==backload== the most challenging tasks to the end of the project, hoping to gain momentum early on. [to arrange or schedule work so that the greater part of it occurs towards the end of a period]\nHis heartfelt apology and genuine ==repentance== for his actions convinced the judge to be lenient. [sincere regret or remorse for one's past actions or sins]\nThe machine was designed to ==extrude== plastic into long, thin pipes. [to force out (material) through a shaped opening]\nThe customer service department had a significant ==backlog== of unaddressed complaints after the holiday sale. [an accumulation of uncompleted work or matters that need to be dealt with]\nThe loud alarm clock failed to ==rouse== him from his deep sleep. [to awaken (someone); to stir or incite (a feeling or action)]\nThe sheer amount of work seemed to ==daunt== him, but he eventually started. [to make (someone) feel intimidated or apprehensive; to discourage]\nThe farmer used specialized tools to ==shear== the sheep of their wool. [to cut off (hair, wool, etc.) very close to the skin]\n\"I'm not the one who broke it!\" she ==retorted== angrily. [a sharp, clever, or angry reply to a remark or accusation]\nThe desert sun produced a ==searing== heat that made walking unbearable. [extremely hot or intense; highly critical or painful]\nThe morning fog began to ==dissipate== as the sun rose higher in the sky. [to cause to disappear or scatter; to waste or squander (money, energy, etc.)]\nAfter the storm, several small boats were still ==afloat== in the harbor. [floating on water; out of debt or difficulty]\nThe company maintained its ==primacy== in the market by constantly innovating. [the fact of being primary, pre-eminent, or most important]\nThe two competing companies announced a ==merger== to create a stronger, combined entity. [a combination of two or more commercial companies or organizations, especially into one]\n</smtcmp_block>",
+      "id": "ff3e3fee-217b-4b54-b0df-1ff9e8bf2978",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 5022,
+          "completion_tokens": 718,
+          "total_tokens": 7126
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "from now on, seperate sentences with one new line character",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nfrom now on, seperate sentences with one new line character\n\n"
+        }
+      ],
+      "id": "eb3e5a34-ad64-4d85-8e16-2df821f6045a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. From now on, I will separate sentences within new entries with a single new line character.",
+      "id": "6166f2f0-aedb-4615-9238-56280197a236",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 6221,
+          "completion_tokens": 21,
+          "total_tokens": 6319
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "predispose bloster lapse frizzle liner hurl incite eloquent ebb scour commemorate inundate discord pendent",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\npredispose bloster lapse frizzle liner hurl incite eloquent ebb scour commemorate inundate discord pendent\n\n"
+        }
+      ],
+      "id": "7d921de9-7e01-4e90-b022-2cb7af7acbf2",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries for your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe two competing companies announced a ==merger== to create a stronger, combined entity. [a combination of two or more commercial companies or organizations, especially into one]\nHis family history ==predisposes== him to heart disease. [to make someone inclined to a specified attitude, action, or condition; to make someone susceptible to something]\nThe community rallied to ==bolster== support for the local library. [to support or strengthen; to prop up]\nHe had a temporary ==lapse== in judgment when he decided to skip studying for the exam. [a brief or temporary failure of concentration, memory, or judgment; a decline from a previous standard]\nHumidity made her hair ==frizzle==. [to curl or crinkle in a frizzy manner; to fry (food) until it is crisp and curled]\nShe used a black eye ==liner== to define her eyes. [a cosmetic applied to outline or emphasize the eyes; a person or thing that draws lines]\nHe ==hurled== the ball across the field. [to throw (an object) with great force]\nThe speaker was accused of trying to ==incite== violence. [to encourage or stir up (violent or unlawful behavior)]\nHer ==eloquent== speech captivated the audience. [fluent or persuasive in speaking or writing; clearly expressing or indicating something]\nHis enthusiasm began to ==ebb== after several rejections. [to gradually lessen or reduce; a low point or a period of decline]\nShe had to ==scour== the internet for information on the rare disease. [to clean or brighten the surface of (something) by rubbing it hard, typically with an abrasive or detergent; to search thoroughly in order to find something]\nWe gathered to ==commemorate== the fallen soldiers. [to recall and show respect for (someone or something)]\nAfter the article was published, she was ==inundated== with emails. [to overwhelm (someone) with things or people to be dealt with; to flood]\nThe committee meeting was filled with ==discord== over the new policy. [disagreement between people; lack of harmony]\nThe ==pendent== lamp hung from the ceiling. [hanging down or suspended; undecided or awaiting decision]\n</smtcmp_block>",
+      "id": "b3365689-b192-4c61-8274-419aca87b6f3",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 6132,
+          "completion_tokens": 508,
+          "total_tokens": 9802
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "you forget adding newlines",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nyou forget adding newlines\n\n"
+        }
+      ],
+      "id": "c05f6614-f046-481d-98f9-d68eafaeb5e9",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "My apologies. You are absolutely right. I missed adding the newlines within the definitions in the previous response. I will correct that now.\n\nHere are the new vocabulary entries for your file, with each sentence in the definition separated by a newline:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe two competing companies announced a ==merger== to create a stronger, combined entity. [a combination of two or more commercial companies or organizations, especially into one]\nHis family history ==predisposes== him to heart disease. [to make someone inclined to a specified attitude, action, or condition;\nto make someone susceptible to something]\nThe community rallied to ==bolster== support for the local library. [to support or strengthen;\nto prop up]\nHe had a temporary ==lapse== in judgment when he decided to skip studying for the exam. [a brief or temporary failure of concentration, memory, or judgment;\na decline from a previous standard]\nHumidity made her hair ==frizzle==. [to curl or crinkle in a frizzy manner;\nto fry (food) until it is crisp and curled]\nShe used a black eye ==liner== to define her eyes. [a cosmetic applied to outline or emphasize the eyes;\na person or thing that draws lines]\nHe ==hurled== the ball across the field. [to throw (an object) with great force]\nThe speaker was accused of trying to ==incite== violence. [to encourage or stir up (violent or unlawful behavior)]\nHer ==eloquent== speech captivated the audience. [fluent or persuasive in speaking or writing;\nclearly expressing or indicating something]\nHis enthusiasm began to ==ebb== after several rejections. [to gradually lessen or reduce;\na low point or a period of decline]\nShe had to ==scour== the internet for information on the rare disease. [to clean or brighten the surface of (something) by rubbing it hard, typically with an abrasive or detergent;\nto search thoroughly in order to find something]\nWe gathered to ==commemorate== the fallen soldiers. [to recall and show respect for (someone or something)]\nAfter the article was published, she was ==inundated== with emails. [to overwhelm (someone) with things or people to be dealt with;\nto flood]\nThe committee meeting was filled with ==discord== over the new policy. [disagreement between people;\nlack of harmony]\nThe ==pendent== lamp hung from the ceiling. [hanging down or suspended;\nundecided or awaiting decision]\n</smtcmp_block>",
+      "id": "449773b4-e741-4f8f-ad13-0a3bad7de75c",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 6522,
+          "completion_tokens": 560,
+          "total_tokens": 7144
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "no, i mean adding newline to seperate each item",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nno, i mean adding newline to seperate each item\n\n"
+        }
+      ],
+      "id": "9d5f2813-b000-4148-9138-88055655e8b8",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "My apologies for the misunderstanding. I now understand you want a blank line between each vocabulary entry.\n\nI will ensure this formatting is applied to all future additions.",
+      "id": "6ddd6d4a-281c-410c-bee7-b6210732236b",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 6993,
+          "completion_tokens": 33,
+          "total_tokens": 8730
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "generate",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ngenerate\n\n"
+        }
+      ],
+      "id": "f95fdbfe-95af-44d5-a68c-738e677898ca",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Please provide the vocabulary words you would like me to add. I need the words themselves to generate the entries.",
+      "id": "a4ca17c8-27a8-4bd5-8bb5-7a6b2905c3de",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 6771,
+          "completion_tokens": 22,
+          "total_tokens": 6895
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "as the last message",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nas the last message\n\n"
+        }
+      ],
+      "id": "91c01b4a-548b-490d-87eb-dbf42039652c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Here are the entries for the words you provided, formatted as requested:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe two competing companies announced a ==merger== to create a stronger, combined entity. [a combination of two or more commercial companies or organizations, especially into one]\n\nHis family history ==predisposes== him to heart disease. [to make someone inclined to a specified attitude, action, or condition;\nto make someone susceptible to something]\n\nThe community rallied to ==bolster== support for the local library. [to support or strengthen;\nto prop up]\n\nHe had a temporary ==lapse== in judgment when he decided to skip studying for the exam. [a brief or temporary failure of concentration, memory, or judgment;\na decline from a previous standard]\n\nHumidity made her hair ==frizzle==. [to curl or crinkle in a frizzy manner;\nto fry (food) until it is crisp and curled]\n\nShe used a black eye ==liner== to define her eyes. [a cosmetic applied to outline or emphasize the eyes;\na person or thing that draws lines]\n\nHe ==hurled== the ball across the field. [to throw (an object) with great force]\n\nThe speaker was accused of trying to ==incite== violence. [to encourage or stir up (violent or unlawful behavior)]\n\nHer ==eloquent== speech captivated the audience. [fluent or persuasive in speaking or writing;\nclearly expressing or indicating something]\n\nHis enthusiasm began to ==ebb== after several rejections. [to gradually lessen or reduce;\na low point or a period of decline]\n\nShe had to ==scour== the internet for information on the rare disease. [to clean or brighten the surface of (something) by rubbing it hard, typically with an abrasive or detergent;\nto search thoroughly in order to find something]\n\nWe gathered to ==commemorate== the fallen soldiers. [to recall and show respect for (someone or something)]\n\nAfter the article was published, she was ==inundated== with emails. [to overwhelm (someone) with things or people to be dealt with;\nto flood]\n\nThe committee meeting was filled with ==discord== over the new policy. [disagreement between people;\nlack of harmony]\n\nThe ==pendent== lamp hung from the ceiling. [hanging down or suspended;\nundecided or awaiting decision]\n</smtcmp_block>",
+      "id": "a937bfcd-d1d4-4387-ab06-f33e363cca14",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 6654,
+          "completion_tokens": 528,
+          "total_tokens": 7356
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The ==pendent== lamp hung from the ceiling. [hanging down or suspended undecided or awaiting decision]",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "if the word has multiple meaning then multiple sentences might be needed",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nThe ==pendent== lamp hung from the ceiling. [hanging down or suspended undecided or awaiting decision]if the word has multiple meaning then multiple sentences might be needed\n\n"
+        }
+      ],
+      "id": "13d15ffe-ed21-4aca-973f-7c74b8781b9f",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "You are correct. If a word has multiple meanings and you wish to include an example sentence for each, please provide them on separate numbered lines, similar to how you provided entries for \"sack\" or \"breed.\"\n\nFor example:\n<smtcmp_block language=\"markdown\">\n1. The ==pendent== lamp hung from the ceiling. [hanging down or suspended]\n2. The judge's decision on the case remains ==pendent==. [undecided or awaiting decision]\n</smtcmp_block>\n\nI will format the output based on the structured input you provide.",
+      "id": "54f0df19-c720-42e2-95b5-372bd86b6791",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 7556,
+          "completion_tokens": 123,
+          "total_tokens": 8698
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "fallow curative ratchet oblique capsize. rememer each sentence for each non trivial and similar meaning",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nfallow curative ratchet oblique capsize. rememer each sentence for each non trivial and similar meaning\n\n"
+        }
+      ],
+      "id": "13dbe6ec-4d05-4bcc-8e4c-1363a91dd093",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries for your file, formatted as requested:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe ==pendent== lamp hung from the ceiling. [hanging down or suspended;\nundecided or awaiting decision]\n\n1. After years of continuous planting, the farmer left the field ==fallow== to replenish its nutrients. [of farmland, left unsown for a period to restore fertility]\n2. His artistic career lay ==fallow== for several years while he focused on his family. [inactive or unproductive]\n\nThe plant's leaves are believed to have ==curative== properties. [able to cure or heal]\n\n1. He used a ==ratchet== wrench to tighten the bolt. [a device with teeth that allows movement in one direction only]\n2. The company decided to ==ratchet== up production to meet demand. [to cause something to increase or decrease in a series of irreversible steps]\n\n1. The path followed an ==oblique== course up the hillside. [slanting or sloping;\nnot direct or straight]\n2. He made an ==oblique== reference to their past mistakes. [indirect or evasive (of remarks or manner)]\n\nA sudden gust of wind caused the small boat to ==capsize==. [to overturn (a boat) in the water]\n</smtcmp_block>",
+      "id": "3a3ab6d9-0ddb-45a7-bb93-510c1649a60c",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 7637,
+          "completion_tokens": 300,
+          "total_tokens": 8544
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "remove the ; from now on",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nremove the ; from now on\n\n"
+        }
+      ],
+      "id": "10a5eee7-5aa1-4d2b-b491-126e247d44bc",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. From now on, I will remove semicolons from the definitions and ensure each part of a multi-part definition is on a new line.",
+      "id": "b3354837-f921-4d80-97cd-20cbecd38ac7",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 8056,
+          "completion_tokens": 31,
+          "total_tokens": 8131
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "frenzied lobby(as verb)      live off      swamp    pink slip    spouse charitable dampen     lean(multiple meaning!)    intrude sparingly     script(in the cultural industry) claimant coax",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nfrenzied lobby(as verb)      live off      swamp    pink slip    spouse charitable dampen     lean(multiple meaning!)    intrude sparingly     script(in the cultural industry) claimant coax\n\n"
+        }
+      ],
+      "id": "96205b27-50a5-4880-9b4e-9a8c1b5649c3",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries for your file, formatted as requested:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nA sudden gust of wind caused the small boat to ==capsize==. [to overturn (a boat) in the water]\n\nThe crowd became ==frenzied== as the band took the stage. [wildly excited or uncontrolled]\n\nThey hired a firm to ==lobby== for changes to the new law. [to try to influence a politician or public official on an issue;\nto try to persuade a politician or public official]\n\nHe still ==lives off== his parents. [to depend on someone or something for financial support;\nto get money or food from someone or something]\n\n1. The area was a mosquito-infested ==swamp==. [an area of low-lying, uncultivated ground where water collects]\n2. We were ==swamped== with work after the new project started. [to overwhelm with an excessive amount of something;\nto flood with water]\n\nMany employees received a ==pink slip== during the economic downturn. [an official notice of dismissal from employment]\n\nMy ==spouse== and I are planning a vacation. [a husband or wife considered in relation to their partner]\n\nHe is known for his ==charitable== donations to various causes. [relating to the assistance of those in need;\ngenerous in giving to charities]\n\n1. The rain began to ==dampen== her hair. [to make something slightly wet]\n2. The news of the defeat did not ==dampen== their spirits. [to make a feeling or reaction less strong;\nto discourage]\n\n1. She had to ==lean== against the wall because she was tired. [to be in or move into a sloping position;\nto incline from a vertical position]\n2. I prefer ==lean== meat with less fat. [containing little or no fat]\n3. The success of the project will ==lean== heavily on teamwork. [to rely or depend on]\n\nI didn't mean to ==intrude== on your private conversation. [to go or come in without invitation or welcome;\nto enter without permission or welcome]\n\nUse the expensive ingredients ==sparingly==. [in a restricted or infrequent manner;\nin small quantities]\n\nThe actor learned his lines from the ==script==. [the written text of a play film or broadcast;\na screenplay or teleplay]\n\nThe ==claimant== sought compensation for the damages. [a person making a claim, especially in a lawsuit or for a state benefit]\n\nShe had to ==coax== the cat down from the tree. [to persuade someone gently to do something;\nto gently and persistently persuade someone to do something]\n</smtcmp_block>",
+      "id": "9369f486-85ea-4b7a-af69-138bec95286f",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 7996,
+          "completion_tokens": 598,
+          "total_tokens": 9710
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "maybe the sentence should be longer and more real",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nmaybe the sentence should be longer and more real\n\n"
+        }
+      ],
+      "id": "c139c01f-ee39-4545-aac1-b3f7719fcad9",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. I will make the example sentences longer and more realistic, ensuring they reflect real-world usage while keeping the definitions concise.\n\nHere are the revised vocabulary entries for your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nA sudden gust of wind caused the small boat to ==capsize==. [to overturn (a boat) in the water]\n\nThe crowd became ==frenzied== as the band took the stage, eager to hear their favorite songs. [wildly excited or uncontrolled]\n\nThey hired a powerful firm to ==lobby== for changes to the new environmental protection law, hoping to influence key politicians. [to try to influence a politician or public official on an issue;\nto try to persuade a politician or public official]\n\nDespite being in his late twenties, he still ==lives off== his parents, who provide him with rent money and groceries. [to depend on someone or something for financial support;\nto get money or food from someone or something]\n\n1. The vast ==swamp== near the coast was teeming with unique wildlife, making it a popular spot for birdwatchers. [an area of low-lying, uncultivated ground where water collects]\n2. After the unexpected surge in customer orders, the small team found themselves completely ==swamped== with work, struggling to keep up. [to overwhelm with an excessive amount of something;\nto flood with water]\n\nMany employees received a ==pink slip== during the economic downturn, leading to widespread concern about job security. [an official notice of dismissal from employment]\n\nMy ==spouse== and I are planning a dream vacation to Italy next summer, exploring ancient ruins and enjoying local cuisine. [a husband or wife considered in relation to their partner]\n\nHe is widely known for his ==charitable== donations to various causes, especially those supporting local education and healthcare initiatives. [relating to the assistance of those in need;\ngenerous in giving to charities]\n\n1. The unexpected rain began to ==dampen== her hair as she rushed from the car to the sheltered entrance of the building. [to make something slightly wet]\n2. The news of the defeat did not ==dampen== their spirits; instead, it fueled their determination to train harder for the next competition. [to make a feeling or reaction less strong;\nto discourage]\n\n1. She had to ==lean== against the wall because she was tired and lightheaded after standing for so long. [to be in or move into a sloping position;\nto incline from a vertical position]\n2. I prefer ==lean== meat with less fat, such as chicken breast or fish, when preparing healthy meals. [containing little or no fat]\n3. The success of the ambitious research project will ==lean== heavily on teamwork and effective collaboration among all the scientists involved. [to rely or depend on]\n\nI didn't mean to ==intrude== on your private conversation, but I just wanted to ask a quick question. [to go or come in without invitation or welcome;\nto enter without permission or welcome]\n\nUse the expensive ingredients ==sparingly== in this recipe, as a little goes a long way to enhance the flavor. [in a restricted or infrequent manner;\nin small quantities]\n\nThe actor learned his lines from the ==script==, practicing his delivery and blocking for hours before the play's opening night. [the written text of a play film or broadcast;\na screenplay or teleplay]\n\nThe ==claimant== sought substantial compensation for the damages incurred after the accident, filing a detailed report with his insurance company. [a person making a claim, especially in a lawsuit or for a state benefit]\n\nShe had to ==coax== the frightened cat down from the tree with gentle words and a tempting treat after it got stuck during the storm. [to persuade someone gently to do something;\nto gently and persistently persuade someone to do something]\n</smtcmp_block>",
+      "id": "6869d525-b055-49f3-9fdc-4dfe75e06031",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 8494,
+          "completion_tokens": 838,
+          "total_tokens": 9465
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "no ; anymore",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nno ; anymore\n\n"
+        }
+      ],
+      "id": "b694cfb3-49fc-42dd-9245-0c5507418b86",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "My apologies. I understand completely now. I will ensure no semicolons are used in the definitions and that each distinct part of a definition is on a new line.\n\nHere are the revised vocabulary entries for your file with the semicolons removed:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nA sudden gust of wind caused the small boat to ==capsize==. [to overturn (a boat) in the water]\n\nThe crowd became ==frenzied== as the band took the stage, eager to hear their favorite songs. [wildly excited or uncontrolled]\n\nThey hired a powerful firm to ==lobby== for changes to the new environmental protection law, hoping to influence key politicians. [to try to influence a politician or public official on an issue\nto try to persuade a politician or public official]\n\nDespite being in his late twenties, he still ==lives off== his parents, who provide him with rent money and groceries. [to depend on someone or something for financial support\nto get money or food from someone or something]\n\n1. The vast ==swamp== near the coast was teeming with unique wildlife, making it a popular spot for birdwatchers. [an area of low-lying, uncultivated ground where water collects]\n2. After the unexpected surge in customer orders, the small team found themselves completely ==swamped== with work, struggling to keep up. [to overwhelm with an excessive amount of something\nto flood with water]\n\nMany employees received a ==pink slip== during the economic downturn, leading to widespread concern about job security. [an official notice of dismissal from employment]\n\nMy ==spouse== and I are planning a dream vacation to Italy next summer, exploring ancient ruins and enjoying local cuisine. [a husband or wife considered in relation to their partner]\n\nHe is widely known for his ==charitable== donations to various causes, especially those supporting local education and healthcare initiatives. [relating to the assistance of those in need\ngenerous in giving to charities]\n\n1. The unexpected rain began to ==dampen== her hair as she rushed from the car to the sheltered entrance of the building. [to make something slightly wet]\n2. The news of the defeat did not ==dampen== their spirits; instead, it fueled their determination to train harder for the next competition. [to make a feeling or reaction less strong\nto discourage]\n\n1. She had to ==lean== against the wall because she was tired and lightheaded after standing for so long. [to be in or move into a sloping position\nto incline from a vertical position]\n2. I prefer ==lean== meat with less fat, such as chicken breast or fish, when preparing healthy meals. [containing little or no fat]\n3. The success of the ambitious research project will ==lean== heavily on teamwork and effective collaboration among all the scientists involved. [to rely or depend on]\n\nI didn't mean to ==intrude== on your private conversation, but I just wanted to ask a quick question. [to go or come in without invitation or welcome\nto enter without permission or welcome]\n\nUse the expensive ingredients ==sparingly== in this recipe, as a little goes a long way to enhance the flavor. [in a restricted or infrequent manner\nin small quantities]\n\nThe actor learned his lines from the ==script==, practicing his delivery and blocking for hours before the play's opening night. [the written text of a play film or broadcast\na screenplay or teleplay]\n\nThe ==claimant== sought substantial compensation for the damages incurred after the accident, filing a detailed report with his insurance company. [a person making a claim, especially in a lawsuit or for a state benefit]\n\nShe had to ==coax== the frightened cat down from the tree with gentle words and a tempting treat after it got stuck during the storm. [to persuade someone gently to do something\nto gently and persistently persuade someone to do something]\n</smtcmp_block>",
+      "id": "64c0eb6f-2456-4fa3-9b84-144e9262618d",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 8693,
+          "completion_tokens": 839,
+          "total_tokens": 9707
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "infuriate unsurpassed upend testament  eclipse denounce tempo ashore afield confer doorway propound censure solicitant tether folicle",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ninfuriate unsurpassed upend testament  eclipse denounce tempo ashore afield confer doorway propound censure solicitant tether folicle\n\n"
+        }
+      ],
+      "id": "c6689d1a-3db5-4e4f-8133-205935551f6c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries for your file, with longer and more realistic sentences, and definitions without semicolons:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nShe had to ==coax== the frightened cat down from the tree with gentle words and a tempting treat after it got stuck during the storm. [to persuade someone gently to do something\nto gently and persistently persuade someone to do something]\n\nThe continuous loud noise from the construction site began to ==infuriate== the residents, disrupting their peace and quiet every morning. [to make someone extremely angry or impatient]\n\nHer dedication to scientific research was ==unsurpassed==, leading to groundbreaking discoveries that transformed the field. [better than anyone or anything else]\n\n1. He accidentally ==upended== the bucket, spilling water all over the freshly cleaned floor. [to turn upside down]\n2. The new evidence threatened to ==upend== the entire legal case, requiring the lawyers to rethink their strategy. [to cause to be in a different position or situation]\n\nThe flawless restoration of the ancient ruins stood as a ==testament== to the dedication and skill of the conservation team. [something that serves as a sign or evidence of a specified fact, event, or quality]\n\n1. Stargazers gathered in anticipation to witness the rare solar ==eclipse==, a spectacular alignment of the moon and sun. [an obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source of illumination]\n2. Her recent performance was so brilliant that it threatened to ==eclipse== all her previous achievements, setting a new standard for her career. [to make something less important or popular by being better or more successful]\n\nHuman rights organizations around the world united to ==denounce== the brutal treatment of political prisoners, calling for immediate intervention. [to publicly declare to be wrong or evil]\n\nThe conductor adjusted the ==tempo== of the orchestra, bringing a vibrant energy to the final movement of the symphony. [the speed at which a passage of music is or should be played\nthe rate or pace of any activity or process]\n\nAfter a long voyage, the sailors were relieved to finally step ==ashore==, feeling solid ground beneath their feet once again. [to or on the land from the sea, lake, or river]\n\n1. Many young graduates choose to travel ==afield== for a few years before settling down into a career. [to or at a distance away from home]\n2. His arguments began to wander ==afield==, losing focus from the main point of the debate. [off the right track astray]\n\n1. The university decided to ==confer== an honorary doctorate upon the renowned philanthropist for her significant contributions to education. [to grant or bestow (a title, degree, benefit, or right)]\n2. The doctors needed to ==confer== with each other before making a final decision on the patient's complex treatment plan. [to have discussions exchange opinions]\n\nAs she stood in the ==doorway==, she paused for a moment, taking a deep breath before stepping out into the bustling city streets. [an opening in a wall or building that can be closed by a door and serves as an entrance or exit]\n\nDuring the philosophical debate, the speaker began to ==propound== a complex theory about the nature of consciousness, sparking a lively discussion. [to put forward (an idea, theory, or point of view) for consideration by others]\n\nThe ethics committee decided to publicly ==censure== the senator for his misconduct, stripping him of his committee assignments. [to express severe disapproval of (someone or something), typically in a formal statement]\n\nThe farmer decided to ==tether== the goat to a post near the barn, allowing it to graze freely but preventing it from wandering too far. [to tie (an animal) with a rope or chain so as to restrict its movement]\n\nHair growth begins deep within the hair ==follicle==, located beneath the surface of the skin. [a small secretory cavity, sac, or gland, in particular]\n</smtcmp_block>\n\n**Note regarding \"solicitant\":** The word \"solicitant\" is not a commonly recognized standard English word with a defined meaning in most dictionaries. It might be a misspelling of \"solicitous\" (showing interest or concern) or related to \"solicit\" (to ask for or try to obtain something). If you meant one of these, please clarify, and I can add an entry for it.",
+      "id": "972b4736-48f0-46d9-b2d6-2031669c18a5",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 9863,
+          "completion_tokens": 957,
+          "total_tokens": 13460
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "incise excise slant infalliable caprice adept depredation somber",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nincise excise slant infalliable caprice adept depredation somber\n\n"
+        }
+      ],
+      "id": "9aa4d055-149f-4d82-9c47-60dc3aa1959a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries for your file, with longer and more realistic sentences, and definitions without semicolons:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nHair growth begins deep within the hair ==follicle==, located beneath the surface of the skin. [a small secretory cavity, sac, or gland, in particular]\n\nThe surgeon had to carefully ==incise== the tissue to remove the tumor. [to cut into\nmake an incision in]\n\n1. The editor decided to ==excise== the controversial paragraph from the article before publication. [to cut out or remove (a section from a text or document)]\n2. Doctors had to ==excise== the problematic appendix. [to remove (an organ or part) by cutting]\n\n1. The old house had a slight ==slant== to one side, making it feel charmingly crooked. [to slope or lean in a particular direction]\n2. News reports often ==slant== their coverage to favor a certain political party. [to present information from a particular point of view, often biased]\n\nWhile the new software is highly advanced, it's not entirely ==infallible== and occasional bugs still appear. [incapable of making mistakes or being wrong\nnever failing]\n\nHer decision to quit her job on a sudden ==caprice== surprised all her colleagues. [a sudden and unaccountable change of mood or behavior]\n\nShe is particularly ==adept== at solving complex mathematical problems. [very skilled or proficient at something]\n\nThe farmers suffered significant losses due to the ==depredation== of local wildlife on their crops. [an act of attacking or plundering\na destructive attack]\n\nThe ==somber== atmosphere in the room reflected the gravity of the news they had just received. [dark or dull in color or tone\ngloomy\nsolemnly serious]\n</smtcmp_block>",
+      "id": "07c5d5e2-f11e-4b97-a007-3dd78d0ee3eb",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 11106,
+          "completion_tokens": 408,
+          "total_tokens": 12153
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "remove not needed newline",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nremove not needed newline\n\n"
+        }
+      ],
+      "id": "53fb2f87-0b07-4ecf-af0f-cf67e88917e5",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. I will now remove unnecessary newlines within the definitions, ensuring that parts of a single definition or closely related definitions are on the same line.\n\nHere are the revised vocabulary entries for your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nHair growth begins deep within the hair ==follicle==, located beneath the surface of the skin. [a small secretory cavity, sac, or gland, in particular]\n\nThe surgeon had to carefully ==incise== the tissue to remove the tumor. [to cut into make an incision in]\n\n1. The editor decided to ==excise== the controversial paragraph from the article before publication. [to cut out or remove (a section from a text or document)]\n2. Doctors had to ==excise== the problematic appendix. [to remove (an organ or part) by cutting]\n\n1. The old house had a slight ==slant== to one side, making it feel charmingly crooked. [to slope or lean in a particular direction]\n2. News reports often ==slant== their coverage to favor a certain political party. [to present information from a particular point of view, often biased]\n\nWhile the new software is highly advanced, it's not entirely ==infallible== and occasional bugs still appear. [incapable of making mistakes or being wrong never failing]\n\nHer decision to quit her job on a sudden ==caprice== surprised all her colleagues. [a sudden and unaccountable change of mood or behavior]\n\nShe is particularly ==adept== at solving complex mathematical problems. [very skilled or proficient at something]\n\nThe farmers suffered significant losses due to the ==depredation== of local wildlife on their crops. [an act of attacking or plundering a destructive attack]\n\nThe ==somber== atmosphere in the room reflected the gravity of the news they had just received. [dark or dull in color or tone gloomy solemnly serious]\n</smtcmp_block>",
+      "id": "c1fe2e04-52f7-4cfc-b633-9d797ff62181",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 11484,
+          "completion_tokens": 419,
+          "total_tokens": 12224
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "at stake",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nat stake\n\n"
+        }
+      ],
+      "id": "89f41c1d-0c68-426c-97ec-5fcc3ce5973c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the new vocabulary entry for your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe ==somber== atmosphere in the room reflected the gravity of the news they had just received. [dark or dull in color or tone gloomy solemnly serious]\n\nWith the company's future ==at stake==, the CEO made a desperate plea to the investors for more funding. [at risk dependent on what happens]\n</smtcmp_block>",
+      "id": "5949e574-b7d4-4614-952d-63d667229a9f",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 12237,
+          "completion_tokens": 109,
+          "total_tokens": 12487
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "awfully",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nawfully\n\n"
+        }
+      ],
+      "id": "1671890a-3a47-43fe-ab40-fb24a2af3b91",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the new vocabulary entry for your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nWith the company's future ==at stake==, the CEO made a desperate plea to the investors for more funding. [at risk dependent on what happens]\n\n1. The student was ==awfully== proud of her perfect score on the difficult exam. [very or extremely]\n2. The negotiations went ==awfully==, leading to a complete breakdown in communication between the two parties. [very badly or unpleasantly]\n</smtcmp_block>",
+      "id": "ec519d81-7e88-4130-9e53-3e9205250216",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 11813,
+          "completion_tokens": 132,
+          "total_tokens": 12727
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "dispensation",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ndispensation\n\n"
+        }
+      ],
+      "id": "37cbe8a4-88ee-428a-bcf9-388f469556c8",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the new vocabulary entry for your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n2. The negotiations went ==awfully==, leading to a complete breakdown in communication between the two parties. [very badly or unpleasantly]\n\n1. The patient received a special ==dispensation== from the doctor to use an experimental drug not yet widely approved. [an exemption from a rule or usual requirement]\n2. The government granted a ==dispensation== for the small village to delay implementing the new waste management regulations due to their remote location. [a system of order, government, or organization of a nation, community, etc., especially as existing at a particular time or as ordained by a divine power]\n</smtcmp_block>",
+      "id": "4ff1f27b-c954-4952-a304-ea1478d0ecb9",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 11805,
+          "completion_tokens": 171,
+          "total_tokens": 12075
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "incensed",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nincensed\n\n"
+        }
+      ],
+      "id": "18566fbf-2a18-4d14-9cca-5ef2349391cd",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the new vocabulary entry for your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n2. The government granted a ==dispensation== for the small village to delay implementing the new waste management regulations due to their remote location. [a system of order, government, or organization of a nation, community, etc., especially as existing at a particular time or as ordained by a divine power]\n\nThe community was ==incensed== by the proposed budget cuts to essential public services. [very angry or enraged]\n</smtcmp_block>",
+      "id": "227c5009-7428-4fbb-b9d0-ccc593a11a50",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 11768,
+          "completion_tokens": 127,
+          "total_tokens": 12074
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "barge pole and barge",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nbarge pole and barge\n\n"
+        }
+      ],
+      "id": "73e34b2b-e43b-4d0b-ae9f-2c24f08e2392",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries for your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe community was ==incensed== by the proposed budget cuts to essential public services. [very angry or enraged]\n\nHe wouldn't touch that old, run-down house with a ==barge pole==, no matter how cheap it was. [a long pole used to push a barge; used in the idiom \"wouldn't touch (something) with a barge pole\" meaning to avoid something completely]\n\n1. The large cargo ==barge== slowly made its way down the river, carrying goods to the port. [a long flat-bottomed boat, typically used for carrying freight on canals and rivers]\n2. She watched him ==barge== into the meeting late, disrupting the presentation without an apology. [to move forcefully and clumsily]\n</smtcmp_block>",
+      "id": "37367d6d-ba1d-4a97-92d5-069040b7b185",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 11853,
+          "completion_tokens": 200,
+          "total_tokens": 12198
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "cranial revolting",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ncranial revolting\n\n"
+        }
+      ],
+      "id": "9eb438b3-07fc-45b0-aeee-2ef2a94f3d2d",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries for your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n2. She watched him ==barge== into the meeting late, disrupting the presentation without an apology. [to move forcefully and clumsily]\n\nThe ==cranial== nerves originate from the brain and brainstem, controlling various functions like sensation and movement in the head and neck. [relating to the skull or cranium]\n\nThe smell of the rotting food was absolutely ==revolting==, making everyone in the room feel nauseous. [causing intense disgust or shock]\n</smtcmp_block>",
+      "id": "9e949c72-dd09-4b1c-b077-a2c29f960b26",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 11596,
+          "completion_tokens": 140,
+          "total_tokens": 11858
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "section and sector in economy",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nsection and sector in economy\n\n"
+        }
+      ],
+      "id": "d10e26f0-322f-4753-a2a4-1c3035349684",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries for your file, focusing on the economic context you requested:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe smell of the rotting food was absolutely ==revolting==, making everyone in the room feel nauseous. [causing intense disgust or shock]\n\nThe government plans to increase funding for the education ==section== of the annual budget next year. [a distinct part or subdivision of a larger whole, often referring to a specific area or component within a larger system, like an economy or a document]\n\nThe technology ==sector== has seen rapid growth in recent years, attracting significant investment and creating numerous jobs. [a distinct part of a country's economy, often grouped by industry, business activity, or ownership structure]\n</smtcmp_block>",
+      "id": "8db17744-76de-4fbc-83c7-e9a7e33610e7",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 10962,
+          "completion_tokens": 179,
+          "total_tokens": 11198
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "transpire",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ntranspire\n\n"
+        }
+      ],
+      "id": "ee5b0d78-1389-4caa-b151-c3601feb166e",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the new vocabulary entry for your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe technology ==sector== has seen rapid growth in recent years, attracting significant investment and creating numerous jobs. [a distinct part of a country's economy, often grouped by industry, business activity, or ownership structure]\n\n1. It later ==transpired== that the company had been filing false reports for years. [to come to be known; be revealed]\n2. What ==transpired== at the meeting remained confidential. [to occur; happen]\n</smtcmp_block>",
+      "id": "bd2446cd-e499-4a06-9eb6-26d02c085e82",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 10382,
+          "completion_tokens": 139,
+          "total_tokens": 10741
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "actionable",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nactionable\n\n"
+        }
+      ],
+      "id": "5efc7610-a71a-49fd-9f37-e460b9a79a98",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the new vocabulary entry for your file:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n2. What ==transpired== at the meeting remained confidential. [to occur; happen]\n\nThe committee provided ==actionable== recommendations to improve public safety. [giving practical advice or information; able to be used as a basis for legal action]\n</smtcmp_block>",
+      "id": "3f84973d-d496-41d7-9620-935d52ee5478",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 10357,
+          "completion_tokens": 95,
+          "total_tokens": 10566
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "more meanings",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nmore meanings\n\n"
+        }
+      ],
+      "id": "fdfe6bb9-fdea-4674-9cad-c322f4aba462",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the updated meanings for \"actionable\":\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n2. What ==transpired== at the meeting remained confidential. [to occur; happen]\n\nThe committee provided ==actionable== recommendations to improve public safety.\n1. [giving practical advice or information that can be acted upon]\n2. [able to be used as a basis for legal action]\n</smtcmp_block>",
+      "id": "b46f9112-09f1-416f-abd3-d62d8b48db6d",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 10042,
+          "completion_tokens": 107,
+          "total_tokens": 10409
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "hound (as verb)    specimen fuss shuttle pail shove",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nhound (as verb)    specimen fuss shuttle pail shove\n\n"
+        }
+      ],
+      "id": "a721e6e7-e5b4-41eb-b34d-1bcf23ffc99b",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 3.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries for your file:\n\n<smtcmp_block filename=\"English 3.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe committee provided ==actionable== recommendations to improve public safety.\n1. [giving practical advice or information that can be acted upon]\n2. [able to be used as a basis for legal action]\n\nThe journalists continued to ==hound== the politician for answers about the scandal. [to relentlessly pursue or bother someone; to harass persistently]\n\nThe scientist collected a plant ==specimen== for further study in the lab. [an individual animal, plant, piece of a mineral, etc., used as an example of its species or type for scientific study or display]\n\nThere's no need to make a ==fuss== over such a small mistake. [a display of unnecessary or excessive excitement, activity, or concern; to show excessive concern or attention]\n\nThe company provides a bus service to ==shuttle== employees between the office and the train station. [to move or travel regularly back and forth between two places]\n\nHe filled the ==pail== with water to carry it to the garden. [a bucket]\n\nShe had to ==shove== her way through the crowded subway car to get off at her stop. [to push (someone or something) roughly]\n</smtcmp_block>",
+      "id": "220da007-c6fa-489c-90f0-d3e1124a5cfb",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 11718,
+          "completion_tokens": 284,
+          "total_tokens": 12222
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "meadow staggering consecrate attest",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nmeadow staggering consecrate attest\n\n"
+        }
+      ],
+      "id": "2c990f2a-a850-4b73-b697-bc1a86707cbc",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries for your file:\n\n<smtcmp_block filename=\"English 3.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nShe had to ==shove== her way through the crowded subway car to get off at her stop. [to push (someone or something) roughly]\n\nCows grazed peacefully in the green ==meadow==. [a piece of grassland, especially one used for hay]\n\n1. The cost of the new project was ==staggering==, requiring a significant budget increase. [deeply shocking; astonishing]\n2. After the long journey, he walked with a ==staggering== gait, clearly exhausted. [moving unsteadily; tottering]\n\nThe bishop came to ==consecrate== the new church. [to make or declare (something, typically a church) sacred; dedicate formally to a religious or divine purpose]\n\n1. The ancient ruins ==attest== to the skill of the builders. [to provide or serve as clear evidence of]\n2. I can ==attest== to his honesty; he is a very trustworthy person. [to declare that something exists or is true, especially formally or as an official witness]\n</smtcmp_block>",
+      "id": "96541f08-54e9-4085-8ff8-99a120bc6494",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 14811,
+          "completion_tokens": 261,
+          "total_tokens": 15250
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "ascetic advertent propensity primeval consort deviant civic magnet",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nascetic advertent propensity primeval consort deviant civic magnet\n\n"
+        }
+      ],
+      "id": "daa955ee-c709-4030-9b85-2676445817a8",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 3.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the new vocabulary entries for your file:\n\n<smtcmp_block filename=\"English 3.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n1. The ancient ruins ==attest== to the skill of the builders. [to provide or serve as clear evidence of]\n2. I can ==attest== to his honesty; he is a very trustworthy person. [to declare that something exists or is true, especially formally or as an official witness]\n\nHe lived an ==ascetic== life, renouncing worldly pleasures and dedicating himself to spiritual discipline. [characterized by severe self-discipline and avoidance of all forms of indulgence, typically for religious reasons]\n\nThe team made an ==advertent== error, realizing their mistake immediately after submitting the report. [deliberate; intentional]\n\nShe had a natural ==propensity== for art, easily sketching intricate designs from a young age. [an inclination or natural tendency to behave in a particular way]\n\nThe ==primeval== forest felt untouched by human hands, with ancient trees reaching towards the sky. [of or relating to the earliest age of the world or of human history; ancient]\n\n1. The queen would often ==consort== with her most trusted advisors to discuss matters of state. [to habitually associate with someone, especially someone disapproved of by others]\n2. The prince married his long-time ==consort== in a lavish ceremony. [a spouse, especially of a monarch]\n\n1. His ==deviant== behavior led to his expulsion from the club. [departing from usual or accepted standards, especially in social or sexual behavior]\n2. The police apprehended the ==deviant== who had been vandalizing public property. [a person whose behavior deviates from what is considered normal or acceptable]\n\nIt is every citizen's ==civic== duty to vote in elections. [relating to a city or town or to the duties or activities of people living there]\n\nThe old church stood as a ==magnet== for tourists, drawing visitors from all over the world with its historical significance. [a person or thing that attracts others]\n</smtcmp_block>",
+      "id": "a13552a7-f00e-46b7-bacc-ce4e5d929968",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 12480,
+          "completion_tokens": 447,
+          "total_tokens": 13270
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "magnate",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nmagnate\n\n"
+        }
+      ],
+      "id": "5c98d6cc-845f-4bd7-9215-cb128989f5c4",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 4.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the new vocabulary entry for your file:\n\n<smtcmp_block filename=\"English 3.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe old church stood as a ==magnet== for tourists, drawing visitors from all over the world with its historical significance. [a person or thing that attracts others]\n\nThe oil ==magnate== donated a large sum of money to the local hospital. [a wealthy and influential businessman or businesswoman, especially in a particular industry]\n</smtcmp_block>",
+      "id": "e01d3777-10bb-4b53-bf6f-bfb95f030283",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 2977,
+          "completion_tokens": 109,
+          "total_tokens": 3139
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "apprehend",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\napprehend\n\n"
+        }
+      ],
+      "id": "2296ee49-b26c-481c-b92e-d5766f768e08",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 4.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the new vocabulary entry for your file:\n\n<smtcmp_block filename=\"English 3.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe oil ==magnate== donated a large sum of money to the local hospital. [a wealthy and influential businessman or businesswoman, especially in a particular industry]\n\n1. The police managed to ==apprehend== the suspect after a long chase. [to seize or take into custody]\n2. It took him a while to ==apprehend== the complex concepts taught in the lecture. [to understand or perceive]\n</smtcmp_block>",
+      "id": "c961e012-dfdf-4920-8fc2-588a0dbab603",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 3032,
+          "completion_tokens": 130,
+          "total_tokens": 3213
+        }
+      }
+    }
+  ],
+  "createdAt": 1755238599282,
+  "updatedAt": 1755424784387,
+  "schemaVersion": 1
+}

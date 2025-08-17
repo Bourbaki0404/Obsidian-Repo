@@ -1,0 +1,207 @@
+{
+  "id": "c85e514c-a841-4156-9c96-f2bad177509e",
+  "title": "actionable",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "actionable",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nactionable\n\n"
+        }
+      ],
+      "id": "48adde48-de5f-4346-96b8-ac45cb1fbb30",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the update to your file, adding the definition for \"actionable.\"\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nactionable [able to be acted on; practical and useful]\n</smtcmp_block>",
+      "id": "a8a80b3b-07c5-4f13-9428-89904ed54405",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 8269,
+          "completion_tokens": 62,
+          "total_tokens": 8459
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "reread the text to understand how to answer me plz?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nreread the text to understand how to answer me plz?\n\n"
+        }
+      ],
+      "id": "a44abcbc-ef2a-460e-8bea-c229af9ad7b5",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "I have reviewed the instructions for formatting responses. My apologies for not including a section heading in the previous response's markdown block as specified. Here is the corrected update for your file, including a relevant heading to indicate the part being edited:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n## Vocabulary Entries\n<!-- ... existing content ... -->\nactionable [able to be acted on; practical and useful]\n</smtcmp_block>",
+      "id": "c8439c18-3ecb-4c1e-a029-dcdcaac40e96",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 8348,
+          "completion_tokens": 98,
+          "total_tokens": 11593
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "stipulate",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nstipulate\n\n"
+        }
+      ],
+      "id": "ebac7f4d-82a1-42f2-9d4a-fafbc6a1dede",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the update to your file, adding the definition for \"stipulate.\"\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n## Vocabulary Entries\n<!-- ... existing content ... -->\nstipulate [demand or specify (a requirement), typically as part of an agreement; to state something as a condition of an agreement or arrangement]\n<!-- ... existing content ... -->\n</smtcmp_block>",
+      "id": "db63f5e8-f17a-4a34-a974-dc36cf9dec14",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 9700,
+          "completion_tokens": 91,
+          "total_tokens": 9835
+        }
+      }
+    }
+  ],
+  "createdAt": 1755334882513,
+  "updatedAt": 1755423712671,
+  "schemaVersion": 1
+}

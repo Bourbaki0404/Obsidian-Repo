@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "40bb296bf99f4af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a5ac6b0aaf1edfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cce6e294513fe9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English 2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b7b7002c7d9cc7a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5782d5570f78bb67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "aeb27f768876b662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English 3"
+            }
+          },
+          {
+            "id": "59e059e843a88db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English 4"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "580301a80397ec24",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d0b28d3fa4d312b9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "49495a37f95748af",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1e00f8b97440a433",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4c3bc42df1ae72c0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fa701798f649f560",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e84dca12737fc0fa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "English 2.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "0de9b5a60d5201a7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "English 2.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4d7a3e3e16bb8431",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "English 2.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "b53480c204b9c6a8",
+        "type": "leaf",
+        "state": {
+          "type": "smtcmp-chat-view",
+          "state": {},
+          "icon": "wand-sparkles",
+          "title": "Smart composer chat"
+        }
+      },
+      {
+        "id": "059350f1e1999a38",
+        "type": "leaf",
+        "state": {
+          "type": "copilot-chat-view",
+          "state": {},
+          "icon": "message-square",
+          "title": "Copilot"
+        }
+      },
+      {
+        "id": "8958be0c759946f6",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-composer:Open smart composer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cce6e294513fe9ee",
+  "lastOpenFiles": [
+    "English 2.md",
+    "English.md",
+    "English 4.md",
+    "English 3.md",
+    "hey.md",
+    "hello.md",
+    "copilot-conversations/underhand_occupational_hazard_treacherous_deceitful_dishonest_finalise@20250816_175332.md",
+    "copilot-conversations/hello@20250815_122255.md",
+    "copilot-conversations",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "13efb114-55b5-45b3-866d-74e9b4ff2f64",
+  "title": "stipulate",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "stipulate",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nstipulate\n\n"
+        }
+      ],
+      "id": "b4edefc0-8eb7-4678-acdb-65658b73d1e8",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "```English 2.md\n<!-- ... existing content ... -->\n\nThe library contained a myriad of books on every conceivable subject. [a countless or extremely great number of people or things]\n\nstipulate [to demand or specify (a requirement), typically as part of a bargain or agreement]\n</smtcmp_block>\nAdded the definition for \"stipulate\".",
+      "id": "6fc49d9d-468b-43fd-986d-fcda464b3ddf",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 9517,
+          "completion_tokens": 77,
+          "total_tokens": 9636
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "learn the answer format from the text",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nlearn the answer format from the text\n\n"
+        }
+      ],
+      "id": "00038530-e4d3-494b-8c5e-dcfc52103a62",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "The answer format for edits involves a simplified markdown block that emphasizes only the changes.\n\n1.  **Markdown Block:** The edits are provided within a `<smtcmp_block>` tag.\n2.  **Attributes:** This tag includes `filename` (e.g., `filename=\"path/to/file.md\"`) and `language` (e.g., `language=\"markdown\"`) attributes.\n3.  **Emphasis on Changes:** Only the modified or added lines are shown.\n4.  **Skipped Content:** Unchanged content is indicated by `<!-- ... existing content ... -->` comments.\n5.  **Explanation:** A brief explanation of the updates is provided below the markdown block.\n\n<smtcmp_block language=\"markdown\">\n<smtcmp_block filename=\"path/to/file.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n{{ edit_1 }}\n<!-- ... existing content ... -->\n{{ edit_2 }}\n<!-- ... existing content ... -->\n</smtcmp_block>\nExplanation of changes.\n</smtcmp_block>",
+      "id": "f1ee46b5-06c8-44bd-bc2f-8776c2ffb425",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 9605,
+          "completion_tokens": 230,
+          "total_tokens": 9917
+        }
+      }
+    }
+  ],
+  "createdAt": 1755392421593,
+  "updatedAt": 1755412464770,
+  "schemaVersion": 1
+}

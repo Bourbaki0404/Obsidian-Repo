@@ -1,0 +1,1923 @@
+{
+  "id": "3769c30d-b807-4986-8898-99f6cbfa1a9c",
+  "title": "look at my current note, understand its purpose an",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "look at my current note, understand its purpose and pattern. The note serves as a word book in which the word is accompanied by illustrative sentence and explanation",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nlook at my current note, understand its purpose and pattern. The note serves as a word book in which the word is accompanied by illustrative sentence and explanation\n\n"
+        }
+      ],
+      "id": "09042dfe-1ba1-4a83-b213-4bfa373c0778",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Your note `English 2.md` functions as a vocabulary list or \"word book.\"\n\nThe pattern typically includes:\n*   A highlighted word or phrase.\n*   One or more illustrative sentences.\n*   A definition or explanation, often in brackets or after a hyphen.\n*   Sometimes, synonyms or multiple meanings are provided, often with numbered examples.",
+      "id": "1ffaf413-58a2-466f-9347-f8297dd8b523",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 2050,
+          "completion_tokens": 76,
+          "total_tokens": 2382
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "after understanding the structure, try to add a item for the word indiscrete",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nafter understanding the structure, try to add a item for the word indiscrete\n\n"
+        }
+      ],
+      "id": "a8ae44e2-ad56-4d8e-8e1d-8d48ac5cc2b5",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "I will add the word \"indiscrete\" to your note following the established pattern.\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe team struggled due to a ==dearth== of experienced players. [A lack or shortage of something (often used for things that are needed or desired).]\n1. She ==cringes== every time she watches her old school plays—they’re so embarrassing [To react to something embarrassing, uncomfortable, or awkward by shrinking back or feeling uneasy (like when you see a cringeworthy moment).]\n2. The way he tried to flirt was total ==cringe.==[The uncomfortable feeling itself, or something that causes that feeling]\n==cringeworthy== [embarrassing]\n\nShe’s lactose intolerant, so she avoids ==dairy== products.[Relating to milk or foods made from milk (like cheese, yogurt, butter, or ice cream).]\n\n- She bought a new set of ==hosiery== for the winter, including thick tights and woolen socks. [Clothing items made of thin, stretchy fabric that cover the legs and feet, such as stockings, tights, or socks.]\n\nHer ==rebuttal== to his criticism included facts and examples he hadn’t considered. [A statement or argument that contradicts or opposes a claim, accusation, or opinion. It’s a direct response meant to disprove or counter something]\n- Scientists conducted experiments to ==disprove== the old theory about how the disease spreads.\n\n1. She carried a ==sack== of groceries home from the market.[A large bag made of thick material (like cloth or paper), used for carrying or storing things (e.g., a sack of potatoes).]\n2. To dismiss someone from their job (e.g., He got ==sacked== for being late too often).\n\nHe made a ==preposterous== claim that he’d climbed Mount Everest in a day. [absurd]\n\nShe’s really good at curating her social media—all her posts, whether it’s her morning coffee or weekend hikes, have this chill, earthy feel that just flows together. [The act of selecting, organizing, and presenting items (like art, content, or objects) in a thoughtful or meaningful way. It often involves choosing what’s most valuable or relevant for a specific purpose.]\nWhen we got lost without a map, my friend stayed ==resourceful== and asked locals for hidden shortcuts. [Able to find quick, smart ways to handle challenges or get what you need, especially when resources are limited.]\nThe signal was ==indiscrete==, making it difficult to pinpoint individual data points. [not separated into distinct parts; continuous or undivided]\n</smtcmp_block>",
+      "id": "7c5d8308-e721-49a8-934d-025450e8d266",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 2145,
+          "completion_tokens": 584,
+          "total_tokens": 2979
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "can you apply it",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ncan you apply it\n\n"
+        }
+      ],
+      "id": "a8f564bc-35e8-4805-8a33-af49360e368f",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the updated file with the new entry for \"indiscrete.\"\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n1. Companies often ==hedge== against currency fluctuations to protect their profits [hedge is an investment that is made to reduce the risk of adverse price movements in an asset]\n2. Investors often ==hedge== their bets by buying different types of assets [To reduce or protect against the risk of loss, especially in finance.]\n3. A ==hedge== fund is a private, unregistered investment fund. Hedge funds pool money from investors and invest in securities or other types of assets with the goal of getting positive returns.\n4. He ==hedged== when asked about his future plans. [avoid giving a direct answer]\nHer ==dogged== efforts to learn the piano finally paid off when she performed at the concert. [is persistent, determined, and doesn’t give up easily, even when facing difficulties] [tenacious]\n5. He was caught ==doctoring== the financial records to hide his mistakes [To alter or falsify something (often secretly or dishonestly) to deceive others]\n6. She ==doctored== the old chair to make it usable again.[repair]\nIt’s illegal to ==falsify== your resume by lying about your qualifications [alter or create something false in order to deceive others, often to hide the truth or gain an unfair advantage]\nA company conducting ==due diligence== before acquiring another business to check its finances and legal liabilities. [careful, thorough, and systematic effort or research done to gather information, assess risks, or verify facts before making a decision]\n7. The company took on significant ==liability== after the accident, as they had to pay for damages.[Legal or financial responsibility for something, especially for debts, damages, or obligations.]\nShe hired a top ==law firm== to handle her company’s merger negotiations. [A law firm is a business entity formed by one or more lawyers to provide legal services to clients.]\n- *He was charged with trying to ==defraud== investors out of millions of dollars. [deceive someone intentionally in order to get money, property, or some other benefit illegally]\nHer mastery of the piano was evident in every note she played.\nThe country faced an economic ==downturn== after the financial crisis. [Downturn refers to a period of decline or reduction in activity, often used in the context of economies, markets, or businesses.]\n- He reclined the car seat to take a nap during the long drive [lean or lite back in a relaxed position, or to cause something to do so]\nThe ==abominable== treatment of prisoners shocked the public. [It can describe things that are morally wrong, or simply very unpleasant in a strong way.]\nThe two countries signed a non-aggression ==pact.[formal== agreement between individuals, groups, or nations, often made to achieve a common goal or settle a matter.]\n1. Social anxiety can subtly ==inhibit== one’s willingness to engage in spontaneous conversations, even with close friends, creating a cycle of self-doubt that’s hard to break. [hinder, restrain, or prevent something from happening or developing; to hold back or suppress an action, feeling, or process.]\n2. The team’s creativity felt ==inhibited== by the rigid guidelines imposed by management, leaving their project feeling formulaic and unoriginal.[held back, restrained, or prevented from acting freely—often due to shyness, fear, or external constraints.]\n3. The artist’s latest collection feels ==uninhibited==, abandoning traditional techniques to explore raw, chaotic forms that reflect unbridled emotion. [acts freely without restraint, shyness, or self-consciousness]\nDetectives spent hours ==sifting== through the suspect’s personal records, searching for clues that might link him to the crime.[separate finer particles from coarser ones by passing through a sieve or similar tool; it can also mean to examine something carefully to find what is important or useful]\nHer ==tantrum== was less about the broken toy and more about the buildup of exhaustion from a long day, a release of pent-up emotion she couldn’t articulate.[sudden outburst of anger, frustration, or bad temper, often involving loud crying, shouting, or disruptive behavior—typically associated with young children, but can occur in people of any age when emotions feel overwhelming or unmet]\nThe ==abolitionist’s== fiery speeches at town halls stirred crowds, challenging even those who had long turned a blind eye to the horrors of slavery. [Abolitionist refers to a person who actively worked to end the practice of slavery, particularly in the 18th and 19th centuries.]\nDoctors check ==cholesterol== levels during routine blood tests.[Cholesterol is a waxy, fat-like substance found in your blood and every cell in your body. It’s essential for building cell walls, making hormones (like estrogen and testosterone), and producing vitamin D]\nKids tend to ==gravitate== to the playground as soon as they see it. [To be naturally drawn or attracted to someone, something, or a place (like how gravity pulls things toward each other—hence the name!).]\n\nThe team struggled due to a ==dearth== of experienced players. [A lack or shortage of something (often used for things that are needed or desired).]\n1. She ==cringes== every time she watches her old school plays—they’re so embarrassing [To react to something embarrassing, uncomfortable, or awkward by shrinking back or feeling uneasy (like when you see a cringeworthy moment).]\n2. The way he tried to flirt was total ==cringe.==[The uncomfortable feeling itself, or something that causes that feeling]\n==cringeworthy== [embarrassing]\n\nShe’s lactose intolerant, so she avoids ==dairy== products.[Relating to milk or foods made from milk (like cheese, yogurt, butter, or ice cream).]\n\n- She bought a new set of ==hosiery== for the winter, including thick tights and woolen socks. [Clothing items made of thin, stretchy fabric that cover the legs and feet, such as stockings, tights, or socks.]\n\nHer ==rebuttal== to his criticism included facts and examples he hadn’t considered. [A statement or argument that contradicts or opposes a claim, accusation, or opinion. It’s a direct response meant to disprove or counter something]\n- Scientists conducted experiments to ==disprove== the old theory about how the disease spreads.\n\n1. She carried a ==sack== of groceries home from the market.[A large bag made of thick material (like cloth or paper), used for carrying or storing things (e.g., a sack of potatoes).]\n2. To dismiss someone from their job (e.g., He got ==sacked== for being late too often).\n\nHe made a ==preposterous== claim that he’d climbed Mount Everest in a day. [absurd]\n\nShe’s really good at curating her social media—all her posts, whether it’s her morning coffee or weekend hikes, have this chill, earthy feel that just flows together. [The act of selecting, organizing, and presenting items (like art, content, or objects) in a thoughtful or meaningful way. It often involves choosing what’s most valuable or relevant for a specific purpose.]\nWhen we got lost without a map, my friend stayed ==resourceful== and asked locals for hidden shortcuts. [Able to find quick, smart ways to handle challenges or get what you need, especially when resources are limited.]\nThe signal was ==indiscrete==, making it difficult to pinpoint individual data points. [not separated into distinct parts; continuous or undivided]\n</smtcmp_block>",
+      "id": "a54ea5d4-9df3-4f17-909b-9f14f7626fb7",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 2733,
+          "completion_tokens": 1648,
+          "total_tokens": 4432
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "from now on, only generate the text about the current word so that it is easier to copy and paste",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nfrom now on, only generate the text about the current word so that it is easier to copy and paste\n\n"
+        }
+      ],
+      "id": "600a9088-9908-4ad5-aca9-7f1467b0ab90",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\nThe signal was ==indiscrete==, making it difficult to pinpoint individual data points. [not separated into distinct parts; continuous or undivided]\n</smtcmp_block>",
+      "id": "3dad6a05-250f-4e5e-a423-34b164732047",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4405,
+          "completion_tokens": 46,
+          "total_tokens": 4497
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "add fugitive",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nadd fugitive\n\n"
+        }
+      ],
+      "id": "45a7da81-1f88-4bbc-8078-c05446e70c8a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\nA ==fugitive== is a person who has escaped from a place or is in hiding, especially to avoid arrest or persecution. [someone who is fleeing or in hiding, usually from law enforcement]\n</smtcmp_block>",
+      "id": "33cfe342-46b6-4ee1-b3ff-47511a15baa1",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4452,
+          "completion_tokens": 57,
+          "total_tokens": 4566
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "dont use too simple sentence, it is better coming from real world scene",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ndont use too simple sentence, it is better coming from real world scene\n\n"
+        }
+      ],
+      "id": "7420a01b-d20a-4e65-98f2-564c658e4f14",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\nAfter the bank robbery, the ==fugitive== managed to evade capture for weeks, traveling across state lines before he was finally apprehended. [someone who is fleeing or in hiding, usually from law enforcement or justice]\n</smtcmp_block>",
+      "id": "7bdaa90c-48a8-439b-8c31-9f4eba5d308c",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4527,
+          "completion_tokens": 61,
+          "total_tokens": 4769
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "add detergent",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nadd detergent\n\n"
+        }
+      ],
+      "id": "aa82773d-7af9-4e06-8bff-c7681702ef3c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\nShe added a capful of ==detergent== to the washing machine before starting the laundry. [a chemical substance used for washing, especially clothes or dishes]\n</smtcmp_block>",
+      "id": "a64fe258-639d-47ea-8ac1-dc7387864998",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4638,
+          "completion_tokens": 49,
+          "total_tokens": 4743
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "add undue",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nadd undue\n\n"
+        }
+      ],
+      "id": "2f977fc7-9241-4bf6-9d8d-a23b72a04a89",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\nThe board was accused of exerting ==undue== influence over the company's financial decisions. [excessive or disproportionate]\n</smtcmp_block>",
+      "id": "d63a9b3e-3a79-40ff-979a-78f21c564a52",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4726,
+          "completion_tokens": 43,
+          "total_tokens": 4955
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "detelerious",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ndetelerious\n\n"
+        }
+      ],
+      "id": "eb054a26-517f-4f17-a970-536a16bc30ae",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\nThe ==deleterious== effects of pollution on the environment are becoming increasingly evident. [causing harm or damage]\n</smtcmp_block>",
+      "id": "2cc6bc27-5f47-4093-92b6-5d463c260d3e",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4803,
+          "completion_tokens": 40,
+          "total_tokens": 4957
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "ineluctant",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nineluctant\n\n"
+        }
+      ],
+      "id": "034ce312-99a4-4f3b-bb1f-8e4dab9062e8",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\nThe ==ineluctable== truth of aging is that it comes for everyone, regardless of their efforts to defy it. [impossible to avoid or escape; unavoidable]\n</smtcmp_block>",
+      "id": "176922f9-b7ae-43f0-8e8f-bb46f8d6f4d3",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4874,
+          "completion_tokens": 50,
+          "total_tokens": 5031
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "from now on, notice one thing, a word may has multiple meanings",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nfrom now on, notice one thing, a word may has multiple meanings\n\n"
+        }
+      ],
+      "id": "787bb08c-17a7-4a3d-8e6c-b3822982903f",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. When a word has multiple meanings, I will provide each meaning with its own example sentence and definition, often using a numbered list format as seen in your existing file.",
+      "id": "836949c3-750f-48c9-bced-6fe8e8879a0c",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4943,
+          "completion_tokens": 36,
+          "total_tokens": 5173
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "breed",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nbreed\n\n"
+        }
+      ],
+      "id": "2ad75315-3e40-428e-a904-cd8ac71e184d",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n1. Farmers often ==breed== specific types of livestock for their meat or milk production. [To produce offspring; to raise or grow (animals or plants).]\n2. The golden retriever is a popular ==breed== of dog known for its friendly nature. [A particular kind or type of animal or plant, especially one developed by selective breeding.]\n</smtcmp_block>",
+      "id": "8c498316-38fc-4209-839d-370aed0105d1",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4889,
+          "completion_tokens": 87,
+          "total_tokens": 5247
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "populate",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\npopulate\n\n"
+        }
+      ],
+      "id": "57f9c28b-b12b-4065-8111-9cbabe080de9",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n1. Over time, various species began to ==populate== the newly formed volcanic island. [To inhabit; to live in or be present in large numbers in a particular area.]\n2. The system engineer spent hours trying to ==populate== the new database with customer information. [To fill with inhabitants, residents, or data, especially in a systematic way.]\n</smtcmp_block>",
+      "id": "9384eb03-68d0-4be7-844c-bd54d6b410f0",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4464,
+          "completion_tokens": 90,
+          "total_tokens": 4766
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "similar meaning can be combined or ignored if is too trivial",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nsimilar meaning can be combined or ignored if is too trivial\n\n"
+        }
+      ],
+      "id": "f32bf0ef-0ccc-4c71-856d-56f9fb888f34",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. I will combine similar meanings and omit trivial ones, focusing on distinct and significant real-world applications for each word.",
+      "id": "dada1a02-ca9d-43f7-8edb-8b59a5ac2c0e",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 2976,
+          "completion_tokens": 26,
+          "total_tokens": 3102
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "vantage",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nvantage\n\n"
+        }
+      ],
+      "id": "13d07c60-4ec4-4ef9-a329-3b51443fcd4f",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n1. From our ==vantage point== high on the hill, we had a panoramic view of the entire city. [A position or place that provides a good view or a clear perspective.]\n2. Her deep understanding of the market gave her a strategic ==vantage== over competitors during negotiations. [A position, circumstance, or opportunity that provides an advantage or superiority.]\n</smtcmp_block>",
+      "id": "5986194d-37be-464a-a513-b00ad6953886",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 2956,
+          "completion_tokens": 92,
+          "total_tokens": 3307
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "answerable",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nanswerable\n\n"
+        }
+      ],
+      "id": "30a80462-73a1-47de-91b2-b2884bed985f",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n1. The CEO is ==answerable== to the board of directors for the company's financial performance. [responsible or accountable to someone for actions or decisions]\n2. Some complex ethical dilemmas are not easily ==answerable==, requiring deep consideration. [capable of being answered or explained]\n</smtcmp_block>",
+      "id": "75ccbe34-a9b6-44c7-a6b4-68f60a56c3e5",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 3053,
+          "completion_tokens": 77,
+          "total_tokens": 3622
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "clearance",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nclearance\n\n"
+        }
+      ],
+      "id": "2c07c886-086a-4301-a957-545bc6ee5067",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n1. The company needs **clearance** from the regulatory board before launching the new product. [Official permission or authorization to do something, especially for security or legal purposes.]\n2. We found great deals on winter clothes during the end-of-season **clearance** sale. [A sale of goods at reduced prices to get rid of old stock.]\n3. There was just enough **clearance** for the tall vehicle to pass under the low bridge. [The amount of space or distance needed for something to pass or operate without touching.]\n4. Customs **clearance** for the imported goods was completed quickly. [The official process of getting approval for goods to enter or leave a country.]\n</smtcmp_block>",
+      "id": "2c9bc37f-ce37-41a8-950d-53218ce169d8",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 3131,
+          "completion_tokens": 161,
+          "total_tokens": 3680
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "add repeal",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nadd repeal\n\n"
+        }
+      ],
+      "id": "695a4c55-447d-49e0-8117-6dc7e8568638",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe two countries signed a non-aggression ==pact.[formal== agreement between individuals, groups, or nations, often made to achieve a common goal or settle a matter.]\n1. Social anxiety can subtly ==inhibit== one’s willingness to engage in spontaneous conversations, even with close friends, creating a cycle of self-doubt that’s hard to break. [hinder, restrain, or prevent something from happening or developing; to hold back or suppress an action, feeling, or process.]\n<!-- ... existing content ... -->\nShe added a capful of ==detergent== to the washing machine before starting the laundry. [a chemical substance used for washing, especially clothes or dishes]\nThe board was accused of exerting ==undue== influence over the company's financial decisions. [excessive or disproportionate]\nThe ==deleterious== effects of pollution on the environment are becoming increasingly evident. [causing harm or damage]\nThe ==ineluctable== truth of aging is that it comes for everyone, regardless of their efforts to defy it. [impossible to avoid or escape; unavoidable]\n1. Farmers often ==breed== specific types of livestock for their meat or milk production. [To produce offspring; to raise or grow (animals or plants).]\n2. The golden retriever is a popular ==breed== of dog known for its friendly nature. [A particular kind or type of animal or plant, especially one developed by selective breeding.]\n1. Over time, various species began to ==populate== the newly formed volcanic island. [To inhabit; to live in or be present in large numbers in a particular area.]\n2. The system engineer spent hours trying to ==populate== the new database with customer information. [To fill with inhabitants, residents, or data, especially in a systematic way.]\n\nFrom our ==vantage point== high on the hill, we had a panoramic view of the entire city. [A position or place that provides a good view or a clear perspective.]\n\nHer deep understanding of the market gave her a strategic ==vantage== over competitors during negotiations. [A position, circumstance, or opportunity that provides an advantage or superiority.\n\n1. The CEO is ==answerable== to the board of directors for the company's financial performance. [responsible or accountable to someone for actions or decisions]\n2. Some complex ethical dilemmas are not easily ==answerable==, requiring deep consideration. [capable of being answered or explained]\n\n1. The company needs **clearance** from the regulatory board before launching the new product. [Official permission or authorization to do something, especially for security or legal purposes.]\n2. We found great deals on winter clothes during the end-of-season **clearance** sale. [A sale of goods at reduced prices to get rid of old stock.]\n3. There was just enough **clearance** for the tall vehicle to pass under the low bridge. [The amount of space or distance needed for something to pass or operate without touching.]\n4. Customs **clearance** for the imported goods was completed quickly. [The official process of getting approval for goods to enter or leave a country.]\n**Repeal** the controversial law, as it was widely seen as unfair. [To officially cancel or revoke a law, act, or regulation.]\n</smtcmp_block>\nAdded the word \"repeal\" with its definition and an example sentence.",
+      "id": "7dac8552-a70f-4ec3-80da-37b7d0a7ea20",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 3388,
+          "completion_tokens": 732,
+          "total_tokens": 4215
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "you forget the highlight ==",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nyou forget the highlight ==\n\n"
+        }
+      ],
+      "id": "0b7663c8-7b35-4e16-bbff-e08f997e056a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "My apologies. You are correct. I missed highlighting the word.\n\nHere is the corrected markdown:\n\n<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe two countries signed a non-aggression ==pact.[formal== agreement between individuals, groups, or nations, often made to achieve a common goal or settle a matter.]\n1. Social anxiety can subtly ==inhibit== one’s willingness to engage in spontaneous conversations, even with close friends, creating a cycle of self-doubt that’s hard to break. [hinder, restrain, or prevent something from happening or developing; to hold back or suppress an action, feeling, or process.]\n<!-- ... existing content ... -->\nShe added a capful of ==detergent== to the washing machine before starting the laundry. [a chemical substance used for washing, especially clothes or dishes]\nThe board was accused of exerting ==undue== influence over the company's financial decisions. [excessive or disproportionate]\nThe ==deleterious== effects of pollution on the environment are becoming increasingly evident. [causing harm or damage]\nThe ==ineluctable== truth of aging is that it comes for everyone, regardless of their efforts to defy it. [impossible to avoid or escape; unavoidable]\n1. Farmers often ==breed== specific types of livestock for their meat or milk production. [To produce offspring; to raise or grow (animals or plants).]\n2. The golden retriever is a popular ==breed== of dog known for its friendly nature. [A particular kind or type of animal or plant, especially one developed by selective breeding.]\n1. Over time, various species began to ==populate== the newly formed volcanic island. [To inhabit; to live in or be present in large numbers in a particular area.]\n2. The system engineer spent hours trying to ==populate== the new database with customer information. [To fill with inhabitants, residents, or data, especially in a systematic way.]\n\nFrom our ==vantage point== high on the hill, we had a panoramic view of the entire city. [A position or place that provides a good view or a clear perspective.]\n\nHer deep understanding of the market gave her a strategic ==vantage== over competitors during negotiations. [A position, circumstance, or opportunity that provides an advantage or superiority.\n\n1. The CEO is ==answerable== to the board of directors for the company's financial performance. [responsible or accountable to someone for actions or decisions]\n2. Some complex ethical dilemmas are not easily ==answerable==, requiring deep consideration. [capable of being answered or explained]\n\n1. The company needs ==clearance== from the regulatory board before launching the new product. [Official permission or authorization to do something, especially for security or legal purposes.]\n2. We found great deals on winter clothes during the end-of-season ==clearance== sale. [A sale of goods at reduced prices to get rid of old stock.]\n3. There was just enough ==clearance== for the tall vehicle to pass under the low bridge. [The amount of space or distance needed for something to pass or operate without touching.]\n4. Customs ==clearance== for the imported goods was completed quickly. [The official process of getting approval for goods to enter or leave a country.]\n==Repeal== the controversial law, as it was widely seen as unfair. [To officially cancel or revoke a law, act, or regulation.]\n</smtcmp_block>\nI've corrected the previous entry to include the highlight for \"Repeal\".",
+      "id": "fa688cd2-c8e8-4f12-adf1-c57920cd8122",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4109,
+          "completion_tokens": 752,
+          "total_tokens": 4907
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "add tremor",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nadd tremor\n\n"
+        }
+      ],
+      "id": "d45e6a67-525c-4e56-9731-45c17102ffb4",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n==Repeal== the controversial law, as it was widely seen as unfair. [To officially cancel or revoke a law, act, or regulation.]\nA slight ==tremor== in her voice revealed her nervousness before the presentation. [An involuntary shaking movement, often due to excitement, fear, or a medical condition; also, a slight earthquake or vibration.]\n</smtcmp_block>\nAdded the word \"tremor\" with its definition and an example sentence, correctly highlighted.",
+      "id": "25cd13ca-01af-41e8-b3c9-0f1f8e19680a",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4821,
+          "completion_tokens": 124,
+          "total_tokens": 4988
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "repatriate, teem, crops",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nrepatriate, teem, crops\n\n"
+        }
+      ],
+      "id": "e047be6c-a932-43cf-9723-13b19a7a57e2",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nA slight ==tremor== in her voice revealed her nervousness before the presentation. [An involuntary shaking movement, often due to excitement, fear, or a medical condition; also, a slight earthquake or vibration.]\nThe country decided to ==repatriate== the ancient artifacts to their place of origin. [To return someone or something to their country of origin or citizenship.]\nThe pond ==teemed== with fish after the heavy rains. [To be full of things; to be present in large numbers.]\nFarmers are harvesting their ==crops== earlier this year due to the warm weather. [Plants, such as grain, fruit, or vegetables, grown in large quantities, especially for food.]\n</smtcmp_block>\nAdded \"repatriate,\" \"teem,\" and \"crops\" with their definitions and example sentences.",
+      "id": "9c6b9d5d-df72-42eb-8045-9c8293894a32",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4932,
+          "completion_tokens": 195,
+          "total_tokens": 5186
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "ignore the previous one sentence about tremor",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nignore the previous one sentence about tremor\n\n"
+        }
+      ],
+      "id": "4451efce-a5b8-45b8-9655-bc8807bae8f3",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n==Repeal== the controversial law, as it was widely seen as unfair. [To officially cancel or revoke a law, act, or regulation.]\nThe country decided to ==repatriate== the ancient artifacts to their place of origin. [To return someone or something to their country of origin or citizenship.]\nThe pond ==teemed== with fish after the heavy rains. [To be full of things; to be present in large numbers.]\nFarmers are harvesting their ==crops== earlier this year due to the warm weather. [Plants, such as grain, fruit, or vegetables, grown in large quantities, especially for food.]\n</smtcmp_block>\nRemoved the entry for \"tremor\" as requested.",
+      "id": "41f7f457-3dd6-4a5e-930f-b52c811c7e52",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 5097,
+          "completion_tokens": 173,
+          "total_tokens": 5320
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "only new words",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nonly new words\n\n"
+        }
+      ],
+      "id": "19b65b5f-1269-4f09-a32f-95d8ade70a39",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n==Repeal== the controversial law, as it was widely seen as unfair. [To officially cancel or revoke a law, act, or regulation.]\nThe country decided to ==repatriate== the ancient artifacts to their place of origin. [To return someone or something to their country of origin or citizenship.]\nThe pond ==teemed== with fish after the heavy rains. [To be full of things; to be present in large numbers.]\nFarmers are harvesting their ==crops== earlier this year due to the warm weather. [Plants, such as grain, fruit, or vegetables, grown in large quantities, especially for food.]\n</smtcmp_block>\nAdded the new words \"repatriate,\" \"teem,\" and \"crops\" with their definitions and example sentences.",
+      "id": "8c349b55-4ba1-4d14-85dd-e77e16f9a109",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 5185,
+          "completion_tokens": 186,
+          "total_tokens": 5493
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "ignore repeal",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nignore repeal\n\n"
+        }
+      ],
+      "id": "e2c88d32-5f0a-4eed-a8c4-a0afd6cfbe28",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe country decided to ==repatriate== the ancient artifacts to their place of origin. [To return someone or something to their country of origin or citizenship.]\nThe pond ==teemed== with fish after the heavy rains. [To be full of things; to be present in large numbers.]\nFarmers are harvesting their ==crops== earlier this year due to the warm weather. [Plants, such as grain, fruit, or vegetables, grown in large quantities, especially for food.]\n</smtcmp_block>\nRemoved the entry for \"Repeal\" as requested.",
+      "id": "a2e679e3-eb74-4774-8b6b-9ea48b83cfd9",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 5272,
+          "completion_tokens": 142,
+          "total_tokens": 5451
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "corps",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ncorps\n\n"
+        }
+      ],
+      "id": "61a5ab0a-5af4-4b63-8c67-92aeb22340ea",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe pond ==teemed== with fish after the heavy rains. [To be full of things; to be present in large numbers.]\nFarmers are harvesting their ==crops== earlier this year due to the warm weather. [Plants, such as grain, fruit, or vegetables, grown in large quantities, especially for food.]\nThe ==Marine Corps== is a branch of the military trained for amphibious warfare. [A main subdivision of an army, especially one consisting of officers and enlisted personnel.]\n</smtcmp_block>\nAdded the word \"corps\" with its definition and an example sentence.",
+      "id": "ae46bce5-baee-4080-ac17-4a2ad625ad64",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 5449,
+          "completion_tokens": 147,
+          "total_tokens": 5653
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "sentence should not be too easy",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nsentence should not be too easy\n\n"
+        }
+      ],
+      "id": "d1b74981-e3a1-43ce-99be-89d7c253b6e8",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe pond ==teemed== with fish after the heavy rains. [To be full of things; to be present in large numbers.]\nFarmers are harvesting their ==crops== earlier this year due to the warm weather. [Plants, such as grain, fruit, or vegetables, grown in large quantities, especially for food.]\nThe ==Marine Corps'== rigorous training regimen and unwavering esprit de corps are renowned, cultivating a formidable fighting force capable of executing complex amphibious operations in any environment. [A main subdivision of an army, especially one consisting of officers and enlisted personnel.]\n</smtcmp_block>\nI've updated the sentence for \"Corps\" to be more complex.",
+      "id": "02e9cac2-65bc-4c3a-90d9-533c5fd829c7",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 5579,
+          "completion_tokens": 163,
+          "total_tokens": 5801
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "supplant",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nsupplant\n\n"
+        }
+      ],
+      "id": "4bbed14f-7a54-4396-9ca8-2679198a63ba",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe pond ==teemed== with fish after the heavy rains. [To be full of things; to be present in large numbers.]\nFarmers are harvesting their ==crops== earlier this year due to the warm weather. [Plants, such as grain, fruit, or vegetables, grown in large quantities, especially for food.]\nThe ==Marine Corps'== rigorous training regimen and unwavering esprit de corps are renowned, cultivating a formidable fighting force capable of executing complex amphibious operations in any environment. [A main subdivision of an army, especially one consisting of officers and enlisted personnel.]\nNew technologies often ==supplant== older ones, rendering once-innovative solutions obsolete in the face of rapid advancements. [To take the place of (someone or something) typically through force, superiority, or displacement; to supersede.]\n</smtcmp_block>\nAdded the word \"supplant\" with its definition and a more complex example sentence.",
+      "id": "c8f06bbe-2abd-45a0-a5d5-742ac76c8150",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 5681,
+          "completion_tokens": 213,
+          "total_tokens": 5956
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "brigade",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nbrigade\n\n"
+        }
+      ],
+      "id": "487d0efb-6c15-4c71-b2c7-dcbc05a0597c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nNew technologies often ==supplant== older ones, rendering once-innovative solutions obsolete in the face of rapid advancements. [To take the place of (someone or something) typically through force, superiority, or displacement; to supersede.]\nThe ==brigade== was tasked with a critical reconnaissance mission, operating deep behind enemy lines to gather intelligence before the main assault. [A military unit, typically consisting of three to six battalions and a headquarters, commanded by a brigadier general or colonel.]\n</smtcmp_block>\nAdded the word \"brigade\" with its definition and an example sentence.",
+      "id": "1f1037e3-4d55-4887-ba20-63f2dccddc06",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 5785,
+          "completion_tokens": 147,
+          "total_tokens": 6003
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "ranch, shred, deadpan, lineup, steroscopic as verv",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nranch, shred, deadpan, lineup, steroscopic as verv\n\n"
+        }
+      ],
+      "id": "beb604ed-66ca-4685-9289-98c6de88f13a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "English 2.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"English 2.md\" language=\"markdown\">\n<!-- ... existing content ... -->\nThe ==Marine Corps'== rigorous training regimen and unwavering esprit de corps are renowned, cultivating a formidable fighting force capable of executing complex amphibious operations in any environment. [A main subdivision of an army, especially one consisting of officers and enlisted personnel.]\nNew technologies often ==supplant== older ones, rendering once-innovative solutions obsolete in the face of rapid advancements. [To take the place of (someone or something) typically through force, superiority, or displacement; to supersede.]\nThe ==brigade== was tasked with a critical reconnaissance mission, operating deep behind enemy lines to gather intelligence before the main assault. [A military unit, typically consisting of three to six battalions and a headquarters, commanded by a brigadier general or colonel.]\nThe family had dedicated generations to expanding their cattle ==ranch== across the sprawling Western plains, a testament to their enduring legacy in the agricultural industry. [A large farm, especially in the US and Canada, where cattle, horses, or sheep are bred and reared.]\nThe company's CEO, facing mounting pressure, decided to ==shred== all sensitive internal communications before the auditors arrived, hoping to conceal the extent of their financial irregularities. [To tear or cut into shreds; to destroy by tearing or cutting into strips.]\nDespite the audience's uproarious laughter, the comedian delivered his final punchline with a perfectly ==deadpan== expression, enhancing the comedic effect of his dark humor. [Deliberately impassive or expressionless.]\nThe detective carefully observed each suspect in the ==lineup==, searching for any subtle cues or inconsistencies that might link one of them to the intricate details of the crime. [A line of people or things, especially one formed for a particular purpose.]\n</smtcmp_block>\n\n\"Stereoscopic\" is an adjective, not a verb. It means \"relating to or denoting a process by which two-dimensional pictures are made to appear three-dimensional, especially by being viewed through a stereoscope or other special device.\"\n\n<smtcmp_block language=\"markdown\">\nFor example:\nThe engineer developed a new algorithm to render images with an enhanced ==stereoscopic== effect, making virtual reality experiences more immersive.\n</smtcmp_block>",
+      "id": "f80a425a-0310-4ff5-863c-38ba5458416b",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 5266,
+          "completion_tokens": 483,
+          "total_tokens": 7166
+        }
+      }
+    }
+  ],
+  "createdAt": 1755231407974,
+  "updatedAt": 1755234920038,
+  "schemaVersion": 1
+}
