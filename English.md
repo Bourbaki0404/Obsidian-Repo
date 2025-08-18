@@ -21,11 +21,12 @@ She visited the doctor for a persistent, but minor, ==ailment==. [a minor illnes
 2. He ==appealed to== the company's code of conduct to show that the action was wrong. [to invoke or refer to something (like a principle or authority) in support of an argument or action]
 3. The idea of a long summer vacation has a strong ==appeal== to many workers. [the quality of being attractive or interesting]
 
-1. Her passionate ==advocacy== for women's rights has inspired many. [the act of supporting or speaking or acting on behalf of a person, group, or cause]
-2. The defense lawyer's powerful ==advocacy== convinced the jury to acquit his client. [the act of a lawyer or legal professional presenting a case and arguing on behalf of a client in legal proceedings]
+4. Her passionate ==advocacy== for women's rights has inspired many. [the act of supporting or speaking or acting on behalf of a person, group, or cause]
 
-1. The new law was designed to streamline the bureaucratic ==machinery== of the government. [a system or organization, especially one that is complex and impersonal]
-2. The farm's new combine harvester and tractor are part of its heavy ==machinery==. [large, heavy-duty machines or equipment]
+5. The defense lawyer's powerful ==advocacy== convinced the jury to acquit his client. [the act of a lawyer or legal professional presenting a case and arguing on behalf of a client in legal proceedings]
+
+6. The new law was designed to streamline the bureaucratic ==machinery== of the government. [a system or organization, especially one that is complex and impersonal]
+7. The farm's new combine harvester and tractor are part of its heavy ==machinery==. [large, heavy-duty machines or equipment]
 
 She was ==unapologetic== about her decision to leave the company, believing it was the best choice for her career. [firm in one's beliefs or actions and not feeling the need to apologize, even if others expect it]
 
@@ -331,8 +332,9 @@ The flight ==attendant== calmly explained the safety procedures. [a person whose
 3. Her ==vision== began to blur as she got older. [the faculty or state of being able to see]
 4. The CEO had a clear ==vision== for the company's future. [the ability to think about or plan the future with imagination or wisdom]
 
-1. The refugees walked through a ==desolate== landscape, devoid of life. [of a place, uninhabited and giving an impression of bleak emptiness]
-2. After losing everything, he felt utterly ==desolate== and alone. [feeling or showing a terrible unhappiness or loneliness; forlorn]
+5. The refugees walked through a ==desolate== landscape, devoid of life. [of a place, uninhabited and giving an impression of bleak emptiness]
+
+6. After losing everything, he felt utterly ==desolate== and alone. [feeling or showing a terrible unhappiness or loneliness; forlorn]
 
 The ==meek== student rarely spoke up in class. [quiet, gentle, and easily imposed on; submissive]
 

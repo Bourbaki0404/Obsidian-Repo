@@ -46,7 +46,9 @@ When we got lost without a map, my friend stayed ==resourceful== and asked local
 After the bank robbery, the ==fugitive== managed to evade capture for weeks, traveling across state lines before he was finally apprehended. [someone who is fleeing or in hiding, usually from law enforcement or justice]
 She added a capful of ==detergent== to the washing machine before starting the laundry. [a chemical substance used for washing, especially clothes or dishes]
 The board was accused of exerting ==undue== influence over the company's financial decisions. [excessive or disproportionate]
+
 The ==deleterious== effects of pollution on the environment are becoming increasingly evident. [causing harm or damage]
+
 The ==ineluctable== truth of aging is that it comes for everyone, regardless of their efforts to defy it. [impossible to avoid or escape; unavoidable]
 1. Farmers often ==breed== specific types of livestock for their meat or milk production. [To produce offspring; to raise or grow (animals or plants).]
 2. The golden retriever is a popular ==breed== of dog known for its friendly nature. [A particular kind or type of animal or plant, especially one developed by selective breeding.]
@@ -180,8 +182,7 @@ Despite being in his late twenties, he still ==lives off== his parents, who pr
 to get money or food from someone or something]
 
 1. The vast ==swamp== near the coast was teeming with unique wildlife, making it a popular spot for birdwatchers. [an area of low-lying, uncultivated ground where water collects]
-2. After the unexpected surge in customer orders, the small team found themselves completely ==swamped== with work, struggling to keep up. [to overwhelm with an excessive amount of something  
-    to flood with water]
+2. After the unexpected surge in customer orders, the small team found themselves completely ==swamped== with work, struggling to keep up. [to overwhelm with an excessive amount of something to flood with water]
 
 Many employees received a ==pink slip== during the economic downturn, leading to widespread concern about job security. [an official notice of dismissal from employment]
 
